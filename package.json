@@ -1,13 +1,13 @@
 {
-    "name": "kraken-club-backend",
+    "name": "Parse server typescript",
     "version": "1.0.0",
-    "description": "Kraken Club Backend Parse Server",
+    "description": "Parse Server with TypeScript",
     "main": "./dist/src/index.js",
     "private": true,
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kristoffervelazquez/kraken-club-backend.git"
+        "url": "https://github.com/kristoffervelazquez/parse-server-typescript.git"
     },
     "scripts": {
         "dev": "yarn build && nodemon",
